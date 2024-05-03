@@ -56,4 +56,3 @@
 - **[Hyperparameter Optimization through Neural Network Partitioning.](https://openreview.net/forum?id=nAgdXgfmqj)**
 - **[Does Decentralized Learning with Non-IID Unlabeled Data Benefit from Self Supervision?](https://openreview.net/forum?id=2L9gzS80tA4)**
 - **[Variance Reduction is an Antidote to Byzantines: Better Rates, Weaker Assumptions and Communication Compression as a Cherry on the Top.](https://openreview.net/forum?id=pfuqQQCB34)**
-- **[Dual Diffusion Implicit Bridges for Image-to-Image Translation.](https://openreview.net/forum?id=5HLoTvVGDe)**
