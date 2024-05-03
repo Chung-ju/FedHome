@@ -34,3 +34,4 @@
   * [AISTATS](researchhub/ml/aistats.md)
 * [🫐 Mobile](researchhub/mobile/README.md)
   * [MobiCom](researchhub/mobile/mobicom.md)
+  * [MobiSys](researchhub/mobile/mobisys.md)
