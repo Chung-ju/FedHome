@@ -32,3 +32,5 @@
   * [ICML](researchhub/ml/icml.md)
   * [ICLR](researchhub/ml/iclr.md)
   * [AISTATS](researchhub/ml/aistats.md)
+* [🫐 Mobile](researchhub/mobile/README.md)
+  * [MobiCom](researchhub/mobile/mobicom.md)
