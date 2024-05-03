@@ -1,5 +1,27 @@
 # WWW
 
+## 2024
+
+- **[Poisoning Attack on Federated Knowledge Graph Embedding.]()**
+- **[Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation.]()**
+- **[Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs.]()**
+- **[FedDSE: Distribution-aware Sub-model Extraction for Federated Learning over Resource-constrained Devices.]()**
+- **[BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated Learning Framework.]()**
+- **[Incentive and Dynamic Client Selection for Federated Unlearning.]()**
+- **[Poisoning Federated Recommender Systems with Fake Users.]()**
+- **[Accelerating the Decentralized Federated Learning via Manipulating Edges.]()**
+- **[PAGE: Equilibrate Personalization and Generalization in Federated Learning.]()**
+- **[Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models.]()**
+- **[When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions.]()**
+- **[How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments.]()**
+- **[Privacy-Preserving and Fairness-Aware Federated Learning for Critical Infrastructure Protection and Resilience.]()**
+- **[Co-clustering for Federated Recommender System.]()**
+- **[Cardinality Counting in “Alcatraz”: A Privacy-aware Federated Learning Approach.]()**
+- **[Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation.]()**
+- **[Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation.]()**
+- **[Towards Efficient Communication and Secure Federated Recommendation System via Low-rank Training.]()**
+
+
 ## 2023
 
 - **[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks.](https://dl.acm.org/doi/10.1145/3543507.3583874)**
