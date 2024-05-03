@@ -2,23 +2,32 @@
 
 * [👋 Welcome to FedHome](README.md)
 
-## Overview
+## 🥵 ResearchHub
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
-
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🍓 Web](researchhub/web/README.md)
+  * [WWW](researchhub/web/www.md)
+* [🍎 Security](researchhub/security/README.md)
+  * [USENIX Security](researchhub/security/usenix-security.md)
+  * [S\&P](researchhub/security/s-and-p.md)
+  * [CCS](researchhub/security/ccs.md)
+  * [NDSS](researchhub/security/ndss.md)
+* [🍐 Software](researchhub/software/README.md)
+  * [ICSE](researchhub/software/icse.md)
+  * [ASE](researchhub/software/ase.md)
+  * [FSE](researchhub/software/fse.md)
+* [🍊 System](researchhub/system/README.md)
+  * [OSDI](researchhub/system/osdi.md)
+  * [SOSP](researchhub/system/sosp.md)
+  * [EuroSys](researchhub/system/eurosys.md)
+  * [USENIX ATC](researchhub/system/usenix-atc.md)
+  * [MLSys](researchhub/system/mlsys.md)
+* [🍋 Database](researchhub/database/README.md)
+  * [SIGMOD](researchhub/database/sigmod.md)
+  * [VLDB](researchhub/database/vldb.md)
+  * [ICDE](researchhub/database/icde.md)
+* [🍌 Network](researchhub/network/README.md)
+  * [NSDI](researchhub/network/nsdi.md)
+* [🍉 ML](researchhub/ml/README.md)
+  * [ICML](researchhub/ml/icml.md)
+  * [ICLR](researchhub/ml/iclr.md)
+  * [AISTATS](researchhub/ml/aistats.md)

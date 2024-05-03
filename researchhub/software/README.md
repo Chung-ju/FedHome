@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# 🍐 Software
 
 ## How Projects work
 
