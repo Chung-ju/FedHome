@@ -10,26 +10,16 @@ Currently, conference papers on federated learning are stored here, mainly in so
 
 ## Quick links
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="researchhub/security/" %}
+[security](researchhub/security/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="researchhub/system/" %}
+[system](researchhub/system/)
 {% endcontent-ref %}
 
-## Get Started
+## License
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+Released under the [MIT license](https://opensource.org/license/mit)
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Copyright © 2023-2024 [Chung-ju Huang](https://app.gitbook.com/u/OGY5G5IWoScsb9DvIRUsvNazGow1)
