@@ -3,12 +3,12 @@
 ## 2024
 
 - **[LIFL: A Lightweight, Event-driven Serverless Platform for Federated Learning Federated Learning.]()**
-- **[FedTrans: Efficient Federated Learning via Multi-Model Transformation Federated Learning.]()**
-- **[HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning Federated Learning.]()**
+- **[FedTrans: Efficient Federated Learning via Multi-Model Transformation Federated Learning.](https://arxiv.org/pdf/2404.13515)**
+- **[HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning Federated Learning.](https://arxiv.org/pdf/2403.04207)**
 
 ## 2023
 
-- **[FedTree: A Federated Learning System For Trees.]()**
+- **[FedTree: A Federated Learning System For Trees.](https://proceedings.mlsys.org/paper_files/paper/2023/file/3430e7055936cb8e26451ed49fce84a6-Paper-mlsys2023.pdf)**
 - **[GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning.](https://arxiv.org/pdf/2212.01523)**
 - **[FLINT: A Platform for Federated Learning Integration.](https://arxiv.org/pdf/2302.12862.pdf)**
 - **[On Noisy Evaluation in Federated Hyperparameter Tuning.](https://arxiv.org/pdf/2212.08930.pdf)**
