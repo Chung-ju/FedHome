@@ -2,9 +2,9 @@
 
 ## 2023
 
-- **[AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving.]()**
-- **[Efficient Federated Learning for Modern NLP.]()**
-- **[Federated Few-Shot Learning for Mobile NLP.]()**
+- **[AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving.](https://dl.acm.org/doi/pdf/10.1145/3570361.3592517)**
+- **[Efficient Federated Learning for Modern NLP.](https://xumengwei.github.io/files/MobiCom23-AdaFL.pdf)**
+- **[Federated Few-Shot Learning for Mobile NLP.](https://arxiv.org/pdf/2212.05974)**
 
 ## 2022
 
