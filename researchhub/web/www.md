@@ -3,10 +3,10 @@
 ## 2024
 
 - **[Poisoning Attack on Federated Knowledge Graph Embedding.]()**
-- **[Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation.]()**
-- **[Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs.]()**
-- **[FedDSE: Distribution-aware Sub-model Extraction for Federated Learning over Resource-constrained Devices.]()**
-- **[BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated Learning Framework.]()**
+- **[Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation.](https://arxiv.org/pdf/2401.14678)**
+- **[Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs.](https://xumengwei.github.io/files/WWW24-IntFL.pdf)**
+- **[FedDSE: Distribution-aware Sub-model Extraction for Federated Learning over Resource-constrained Devices.](https://tianweiz07.github.io/Papers/24-www.pdf)**
+- **[BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated Learning Framework.](https://arxiv.org/pdf/2205.10568)**
 - **[Incentive and Dynamic Client Selection for Federated Unlearning.]()**
 - **[Poisoning Federated Recommender Systems with Fake Users.]()**
 - **[Accelerating the Decentralized Federated Learning via Manipulating Edges.]()**
