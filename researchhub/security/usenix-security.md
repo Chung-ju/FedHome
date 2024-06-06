@@ -1,5 +1,10 @@
 # USENIX Security
 
+## 2024
+
+- **[Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach.](https://www.usenix.org/conference/usenixsecurity24/presentation/tan)**
+- **[Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning.](https://www.usenix.org/conference/usenixsecurity24/presentation/jiang-zhifeng)**
+
 ## 2023
 
 - **[Gradient Obfuscation Gives a False Sense of Security in Federated Learning.](https://www.usenix.org/system/files/sec23summer_372-yue-prepub.pdf)**
