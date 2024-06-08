@@ -37,3 +37,4 @@
   * [MobiSys](researchhub/mobile/mobisys.md)
   * [MobiCom](researchhub/mobile/mobicom.md)
   * [SenSys](researchhub/mobile/sensys.md)
+  * [UbiComp](researchhub/mobile/ubicomp.md)
