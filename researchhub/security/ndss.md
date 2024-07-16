@@ -2,12 +2,15 @@
 
 ## 2024
 
-- **[Securing Federated Sensitive Topic Classification against Poisoning Attacks.](https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/)**
-- **[PPA: Preference Profiling Attack Against Federated Learning.](https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/)**
+- **[FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting.](https://www.ndss-symposium.org/wp-content/uploads/2024-360-paper.pdf)**
+- **[CrowdGuard: Federated Backdoor Detection in Federated Learning.](https://www.ndss-symposium.org/wp-content/uploads/2024-233-paper.pdf)**
+- **[Automatic Adversarial Adaption for Stealthy Poisoning Attacks in Federated Learning.](https://www.ndss-symposium.org/wp-content/uploads/2024-1366-paper.pdf)**
+- **[FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning.](https://www.ndss-symposium.org/wp-content/uploads/2024-620-paper.pdf)**
 
 ## 2023
 
-- **[PPA: Preference Profiling Attack Against Federated Learning.](https://arxiv.org/pdf/2202.04856.pdf)**
+- **[Securing Federated Sensitive Topic Classification against Poisoning Attacks.](https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/)**
+- **[PPA: Preference Profiling Attack Against Federated Learning.](https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/)**
 
 ## 2022
 
