@@ -23,6 +23,7 @@
   * [USENIX ATC](researchhub/system/usenix-atc.md)
   * [MLSys](researchhub/system/mlsys.md)
   * [DAC](researchhub/system/dac.md)
+  * [HPCA](researchhub/system/hpca.md)
 * [🍋 Database](researchhub/database/README.md)
   * [SIGMOD](researchhub/database/sigmod.md)
   * [VLDB](researchhub/database/vldb.md)
