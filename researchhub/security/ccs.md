@@ -1,5 +1,11 @@
 # CCS
 
+## 2024
+
+- **[Toward Byzantine-Robust Decentralized Federated Learning.](https://arxiv.org/pdf/2406.10416)**
+- **[Cross-silo Federated Learning with Record-level Personalized Differential Privacy.](https://arxiv.org/pdf/2401.16251)**
+- **[Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation.]()**
+
 ## 2023
 
 - **[martFL: Enabling Utility-Driven Data Marketplace with a Robust and Verifiable Federated Learning Architecture.](https://dl.acm.org/doi/pdf/10.1145/3576915.3623134)**
