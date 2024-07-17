@@ -27,6 +27,7 @@
   * [MICRO](researchhub/system/micro.md)
   * [SC](researchhub/system/sc.md)
   * [SoCC](researchhub/system/socc.md)
+  * [RTSS](researchhub/system/rtss.md)
 * [🍋 Database](researchhub/database/README.md)
   * [SIGMOD](researchhub/database/sigmod.md)
   * [VLDB](researchhub/database/vldb.md)
