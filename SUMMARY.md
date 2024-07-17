@@ -25,6 +25,7 @@
   * [DAC](researchhub/system/dac.md)
   * [HPCA](researchhub/system/hpca.md)
   * [MICRO](researchhub/system/micro.md)
+  * [SC](researchhub/system/sc.md)
 * [🍋 Database](researchhub/database/README.md)
   * [SIGMOD](researchhub/database/sigmod.md)
   * [VLDB](researchhub/database/vldb.md)
