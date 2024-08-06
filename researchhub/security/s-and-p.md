@@ -4,6 +4,9 @@
 
 - **[BadVFL: Backdoor Attacks in Vertical Federated Learning.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a008/1RjE9MQ1fdC)**
 - **[LOKI: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a030/1RjEa6sC0I8)**
+- **[Protecting Label Distribution in Cross-Silo Federated Learning.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a113/1Ub23mqt0hG)**
+- **[FLShield: A Validation Based Federated Learning Framework to Defend Against Poisoning Attacks.](https://arxiv.org/pdf/2308.05832)**
+- **[SHERPA: Explainable Robust Algorithms for Privacy-preserved Federated Learning in Future Networks to Defend against Data Poisoning Attacks.](https://www.researchgate.net/profile/Madhusanka-Liyanage/publication/379653840_SHERPA_Explainable_Robust_Algorithms_for_Privacy-Preserved_Federated_Learning_in_Future_Networks_to_Defend_Against_Data_Poisoning_Attacks/links/661358eb3d96c22bc77ad424/SHERPA-Explainable-Robust-Algorithms-for-Privacy-Preserved-Federated-Learning-in-Future-Networks-to-Defend-Against-Data-Poisoning-Attacks.pdf)**
 
 ## 2023
 
