@@ -19,4 +19,13 @@
 ## 2022
 
 - **[Is Non-IID Data a Threat in Federated Online Learning to Rank?](https://arxiv.org/pdf/2204.09272)**
-  
+
+## 2021
+
+- **[FedCT: Federated Collaborative Transfer for Recommendation.](https://yongfeng.me/attach/liu-sigir2021.pdf)**
+- **[FedCMR: Federated Cross-Modal Retrieval.](https://xubo123456.github.io/files/2021%20%E5%AE%97%E6%9E%97%E6%9E%97%20SIGIR.pdf)**
+- **[On the Privacy of Federated Pipelines.](https://dl.acm.org/doi/abs/10.1145/3404835.3462996)**
+
+## 2020
+
+- **[Meta Matrix Factorization for Federated Rating Predictions.](https://arxiv.org/pdf/1910.10086)**
