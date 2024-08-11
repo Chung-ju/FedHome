@@ -7,6 +7,7 @@
 * [🍓 Web](researchhub/web/README.md)
   * [WWW](researchhub/web/www.md)
   * [KDD](researchhub/web/kdd.md)
+  * [SIGIR](researchhub/web/sigir.md)
 * [🍎 Security](researchhub/security/README.md)
   * [USENIX Security](researchhub/security/usenix-security.md)
   * [S\&P](researchhub/security/s-and-p.md)
