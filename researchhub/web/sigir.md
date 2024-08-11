@@ -15,4 +15,8 @@
 - **[Edge-cloud Collaborative Learning with Federated and Centralized Features.](https://arxiv.org/pdf/2304.05871)**
 - **[FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning.](https://arxiv.org/pdf/2305.08328)**
 - **[FLIRT: Federated Learning for Information Retrieval.](https://web.archive.org/web/20230720041431id_/https://dl.acm.org/doi/pdf/10.1145/3539618.3591926)**
+
+## 2022
+
+- **[Is Non-IID Data a Threat in Federated Online Learning to Rank?](https://arxiv.org/pdf/2204.09272)**
   
