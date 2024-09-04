@@ -10,7 +10,7 @@
 ## 2023
 
 - **[FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive Models.](https://arxiv.org/pdf/2403.02846)**
-- **[Exploiting Internal Randomness for Privacy in Vertical Federated Learning.](https://arxiv.org/pdf/2210.16947)**
+- **[Exploiting Internal Randomness for Privacy in Vertical Federated Learning.](https://eprint.iacr.org/2024/671.pdf)**
 
 ## 2022
 
