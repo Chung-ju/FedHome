@@ -5,6 +5,10 @@
 - **[Toward Byzantine-Robust Decentralized Federated Learning.](https://arxiv.org/pdf/2406.10416)**
 - **[Cross-silo Federated Learning with Record-level Personalized Differential Privacy.](https://arxiv.org/pdf/2401.16251)**
 - **[Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation.]()**
+- **[Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses.](https://arxiv.org/pdf/2407.08935)**
+- **[Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning.]()**
+- **[Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy.]()**
+- **[Samplable Anonymous Aggregation for Private Federated Data Analysis.](https://arxiv.org/pdf/2307.15017)**
 
 ## 2023
 
