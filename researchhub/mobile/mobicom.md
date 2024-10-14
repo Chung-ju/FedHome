@@ -1,5 +1,11 @@
 # MobiCom
 
+## 2024
+
+- **[ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease.](https://dl.acm.org/doi/pdf/10.1145/3636534.3649370)**
+- **[ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues.](https://arxiv.org/pdf/2410.01256)**
+- **[LATTE: Layer Algorithm-aware Training Time Estimation for Heterogeneous Federated Learning.](https://www.cs.cityu.edu.hk/~zhenjili/2024-MobiCom-LATTE.pdf)**
+
 ## 2023
 
 - **[AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving.](https://dl.acm.org/doi/pdf/10.1145/3570361.3592517)**
