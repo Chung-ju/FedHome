@@ -1,5 +1,8 @@
 # NDSS
 
+- **[Passive Inference Attacks on Split Learning via Adversarial Regularization.](https://arxiv.org/pdf/2310.10483)**
+- **[CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling.](https://kaiyuanzhang.com/publications/NDSS25_Censor.pdf)**
+
 ## 2024
 
 - **[FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting.](https://www.ndss-symposium.org/wp-content/uploads/2024-360-paper.pdf)**
