@@ -1,13 +1,5 @@
 # SenSys
 
-## 2024
-
-- **[Effective Heterogeneous Federated Learning via Efficient Hypernetwork-based Weight Generation.](https://arxiv.org/pdf/2407.03086)**
-- **[FedHybrid: Breaking the Memory Wall of Federated Learning via Hybrid Tensor.]()**
-- **[Towards Efficient Heterogeneous Multi-Modal Federated Learning with Hierarchical Knowledge Disentanglement.]()**
-- **[Behave Differently when Clustering: A Semi-asynchronous Federated Learning Approach for IoT.](https://dl.acm.org/doi/pdf/10.1145/3639825)**
-- **[MetaFL: Privacy-preserving User Authentication in Virtual Reality with Federated Learning.]()**
-
 ## 2023
 
 - **[FedINC: An Exemplar-Free Continual Federated Learning Framework with Small Labeled Data.](https://dl.acm.org/doi/pdf/10.1145/3625687.3625800)**

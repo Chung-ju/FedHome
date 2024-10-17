@@ -14,6 +14,7 @@
   * [CCS](researchhub/security/ccs.md)
   * [NDSS](researchhub/security/ndss.md)
   * [ESORICS](researchhub/security/esorics.md)
+  * [ACSAC](researchhub/security/acsac.md)
 * [🍐 Software](researchhub/software/README.md)
   * [ICSE](researchhub/software/icse.md)
   * [ASE](researchhub/software/ase.md)
