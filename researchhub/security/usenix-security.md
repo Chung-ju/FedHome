@@ -4,6 +4,11 @@
 
 - **[Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach.](https://www.usenix.org/conference/usenixsecurity24/presentation/tan)**
 - **[Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning.](https://www.usenix.org/conference/usenixsecurity24/presentation/jiang-zhifeng)**
+- **[FAMOS: Robust Privacy-Preserving Authentication on Payment Apps via Federated Multi-Modal Contrastive Learning.](https://www.usenix.org/system/files/usenixsecurity24-cai-yifeng.pdf)**
+- **[Efficient Privacy Auditing in Federated Learning.](https://www.usenix.org/system/files/usenixsecurity24-chang.pdf)**
+- **[Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning.](https://arxiv.org/pdf/2406.06207)**
+- **[ACE: A Model Poisoning Attack on Contribution Evaluation Methods in Federated Learning.](https://arxiv.org/pdf/2405.20975)**
+- **[BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning.](https://arxiv.org/pdf/2405.20862)**
 
 ## 2023
 
