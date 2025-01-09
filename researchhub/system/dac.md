@@ -1,5 +1,10 @@
 # DAC
 
+## 2024
+
+- **[AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems.](https://arxiv.org/pdf/2311.13166)**
+- **[Fake Node-Based Perception Poisoning Attacks against Federated Object Detection Learning in Mobile Computing Networks.](https://dl.acm.org/doi/abs/10.1145/3649329.3655934)**
+
 ## 2022
 
 - **[FHDnn: communication efficient and robust federated learning for AIoT networks.](https://dl.acm.org/doi/pdf/10.1145/3489517.3530394)**
