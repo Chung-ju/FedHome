@@ -154,3 +154,24 @@
 - **[Federated Learning with Label Distribution Skew via Logits Calibration.]()**
 - **[Neurotoxin: Durable Backdoors in Federated Learning.]()**
 - **[Resilient and Communication Efficient Learning for Heterogeneous Federated Systems.]()**
+
+## 2021
+
+- **[Debiasing Model Updates for Improving Personalized Federated Training.]()**
+- **[Federated Learning under Arbitrary Communication Patterns.]()**
+- **[One for One, or All for All: Equilibria and Optimality of Collaboration in Federated Learning.]()**
+- **[Exploiting Shared Representations for Personalized Federated Learning.]()**
+- **[Heterogeneity for the Win: One-Shot Federated Clustering.]()**
+- **[Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning.]()**
+- **[Federated Learning of User Verification Models Without Sharing Embeddings.]()**
+- **[FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Analysis.]()**
+- **[The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation.]()**
+- **[Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix.]()**
+- **[Ditto: Fair and Robust Federated Learning Through Personalization.]()**
+- **[Bias-Variance Reduced Local SGD for Less Heterogeneous Federated Learning.]()**
+- **[Personalized Federated Learning using Hypernetworks.]()**
+- **[CRFL: Certifiably Robust Federated Learning against Backdoor Attacks.]()**
+- **[Federated Continual Learning with Weighted Inter-client Transfer.]()**
+- **[Federated Deep AUC Maximization for Hetergeneous Data with a Constant Communication Complexity.]()**
+- **[Federated Composite Optimization.]()**
+- **[Data-Free Knowledge Distillation for Heterogeneous Federated Learning.]()**
