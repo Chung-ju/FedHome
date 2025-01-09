@@ -62,3 +62,55 @@
 - **[Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes.]()**
 - **[Federated Self-Explaining GNNs with Anti-shortcut Augmentations.]()**
 - **[MH-pFLID: Model Heterogeneous personalized Federated Learning via Injection and Distillation for Medical Data Analysis.]()**
+
+## 2023
+
+- **[Personalized Subgraph Federated Learning.]()**
+- **[Optimizing the Collaboration Structure in Cross-Silo Federated Learning.]()**
+- **[LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning.]()**
+- **[Fast Federated Machine Unlearning with Nonlinear Functional Theory.]()**
+- **[GuardHFL: Privacy Guardian for Heterogeneous Federated Learning.]()**
+- **[Efficient Personalized Federated Learning via Sparse Model-Adaptation.]()**
+- **[On the Convergence of Federated Averaging with Cyclic Client Participation.]()**
+- **[From Noisy Fixed-Point Iterations to Private ADMM for Centralized and Federated Learning.]()**
+- **[Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning.]()**
+- **[DoCoFL: Downlink Compression for Cross-Device Federated Learning.]()**
+- **[Federated Heavy Hitter Recovery under Linear Sketching.]()**
+- **[Privacy-Aware Compression for Federated Learning Through Numerical Mechanism Design.]()**
+- **[Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships.]()**
+- **[FeDXL: Provable Federated Learning for Deep X-Risk Optimization.]()**
+- **[FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning Bias Reduction.]()**
+- **[Achieving Linear Speedup in Non-IID Federated Bilevel Learning.]()**
+- **[Federated Linear Contextual Bandits with User-level Differential Privacy.]()**
+- **[One-Shot Federated Conformal Prediction.]()**
+- **[Cocktail Party Attack: Breaking Aggregation-Based Privacy in Federated Learning Using Independent Component Analysis.]()**
+- **[Analysis of Error Feedback in Federated Non-Convex Optimization with Biased Compression: Fast Convergence and Partial Participation.]()**
+- **[Revisiting Weighted Aggregation in Federated Learning with Neural Networks.]()**
+- **[Federated Adversarial Learning: A Framework with Convergence Analysis.]()**
+- **[FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models.]()**
+- **[Federated Conformal Predictors for Distributed Uncertainty Quantification.]()**
+- **[Vertical Federated Graph Neural Network for Recommender System.]()**
+- **[SRATTA: Sample Re-ATTribution Attack of Secure Aggregation in Federated Learning.]()**
+- **[Flash: Concept Drift Adaptation in Federated Learning.]()**
+- **[Secure Federated Correlation Test and Entropy Estimation.]()**
+- **[Towards Understanding Ensemble Distillation in Federated Learning.]()**
+- **[Federated Online and Bandit Convex Optimization.]()**
+- **[Conformal Prediction for Federated Uncertainty Quantification Under Label Shift.]()**
+- **[Improving the Model Consistency of Decentralized Federated Learning.]()**
+- **[Dynamic Regularized Sharpness Aware Minimization in Federated Learning: Approaching Global Consistency and Smooth Landscape.]()**
+- **[Private Federated Learning with Autotuned Compression.]()**
+- **[TabLeak: Tabular Data Leakage in Federated Learning.]()**
+- **[FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.]()**
+- **[The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond.]()**
+- **[Anchor Sampling for Federated Learning with Partial Client Participation.]()**
+- **[Personalized Federated Learning under Mixture of Distributions.]()**
+- **[Communication-Efficient Federated Hypergradient Computation via Aggregated Iterative Differentiation.]()**
+- **[Personalized Federated Learning with Inferred Collaboration Graphs.]()**
+- **[FedDisco: Federated Learning with Discrepancy-Aware Collaboration.]()**
+- **[Doubly Adversarial Federated Bandits.]()**
+- **[FedCR: Personalized Federated Learning Based on Across-Client Common Representation with Conditional Mutual Information Regularization.]()**
+- **[Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction.]()**
+- **[No One Idles: Efficient Heterogeneous Federated Learning with Parallel Edge and Server Computation.]()**
+- **[Towards Unbiased Training in Federated Open-world Semi-supervised Learning.]()**
+- **[LeadFL: Client Self-Defense against Model Poisoning in Federated Learning.]()**
+- **[Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning.]()**
