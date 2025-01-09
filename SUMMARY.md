@@ -31,6 +31,7 @@
   * [SC](researchhub/system/sc.md)
   * [SoCC](researchhub/system/socc.md)
   * [RTSS](researchhub/system/rtss.md)
+  * [ISCA](researchhub/system/isca.md)
 * [🍋 Database](researchhub/database/README.md)
   * [SIGMOD](researchhub/database/sigmod.md)
   * [VLDB](researchhub/database/vldb.md)
