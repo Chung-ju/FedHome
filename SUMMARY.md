@@ -37,6 +37,7 @@
   * [ICDE](researchhub/database/icde.md)
 * [🍌 Network](researchhub/network/README.md)
   * [NSDI](researchhub/network/nsdi.md)
+  * [INFOCOM](researchhub/network/infocom.md)
 * [🍉 ML](researchhub/ml/README.md)
   * [ICML](researchhub/ml/icml.md)
   * [ICLR](researchhub/ml/iclr.md)
