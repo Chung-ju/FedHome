@@ -1,5 +1,35 @@
 # KDD
 
+## 2024
+
+- **[Federated Graph Learning with Structure Proxy Alignment.](https://dl.acm.org/doi/pdf/10.1145/3637528.3671717)**
+- **[HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning.](https://arxiv.org/pdf/2406.10616)**
+- **[Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination.](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=10507&context=sis_research)**
+- **[On the Convergence of Zeroth-Order Federated Tuning for Large Language Models.](https://arxiv.org/pdf/2402.05926)**
+- **[CASA: Clustered Federated Learning with Asynchronous Clients.](https://hufudb.com/static/paper/2024/KDD24-liu.pdf)**
+- **[BadSampler: Harnessing the Power of Catastrophic Forgetting to Poison Byzantine-robust Federated Learning.](https://arxiv.org/pdf/2406.12222)**
+- **[FLAIM: AIM-based Synthetic Data Generation in the Federated Setting.](https://dl.acm.org/doi/pdf/10.1145/3637528.3671990)**
+- **[FedNLR: Federated Learning with Neuron-wise Learning Rates.](https://tianweiz07.github.io/Papers/24-kdd.pdf)**
+- **[FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated Learning.](https://arxiv.org/pdf/2405.18291)**
+- **[FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model.](https://dl.acm.org/doi/pdf/10.1145/3637528.3671897)**
+- **[FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation.](https://dl.acm.org/doi/pdf/10.1145/3637528.3671899)**
+- **[Preventing Strategic Behaviors in Collaborative Inference for Vertical Federated Learning.](https://zhengzhenzhe220.github.io/papers/KDD24-1.pdf)**
+- **[PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection.](https://arxiv.org/pdf/2406.02318)**
+- **[FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation.](https://intellisys.haow.us/assets/pdf/fedrola-KDD24.pdf)**
+- **[Personalized Federated Continual Learning via Multi-Granularity Prompt.](https://arxiv.org/pdf/2407.00113)**
+- **[GPFedRec: Graph-Guided Personalization for Federated Recommendation.](https://dl.acm.org/doi/abs/10.1145/3637528.3671702)**
+- **[Enabling Collaborative Test-Time Adaptation in Dynamic Environment via Federated Learning.](https://dl.acm.org/doi/abs/10.1145/3637528.3671908)**
+- **[Asynchronous Vertical Federated Learning for Kernelized AUC Maximization.](https://dl.acm.org/doi/abs/10.1145/3637528.3671930)**
+- **[VertiMRF: Differentially Private Vertical Federated Data Synthesis.](https://arxiv.org/pdf/2406.19008)**
+- **[FedSecurity: A Benchmark for Attacks and Defenses in Federated Learning and Federated LLMs.](https://dl.acm.org/doi/pdf/10.1145/3637528.3671545)**
+- **[Distributed Harmonization: Federated Clustered Batch Effect Adjustment and Generalization.](https://dl.acm.org/doi/pdf/10.1145/3637528.3671590)**
+- **[FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning.](https://arxiv.org/pdf/2309.00363)**
+- **[FedGTP: Exploiting Inter-Client Spatial Dependency in Federated Graph-based Traffic Prediction.](https://www.hufudb.com/static/paper/2024/KDD24-yang.pdf)**
+- **[OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning.](https://arxiv.org/pdf/2402.06954)**
+- **[Privacy-Preserving Federated Learning using Flower Framework.](https://dl.acm.org/doi/abs/10.1145/3637528.3671447)**
+- **[FedKDD: International Joint Workshop on Federated Learning for Data Mining and Graph Analytics.](https://dl.acm.org/doi/abs/10.1145/3637528.3671490)**
+
+
 ## 2023
 
 - **[Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation.](https://dl.acm.org/doi/abs/10.1145/3580305.3599475)**
