@@ -82,3 +82,9 @@
 - **[P-FedAvg: Parallelizing Federated Learning with Theoretical Guarantees.]()**
 - **[Dual Attention-Based Federated Learning for Wireless Traffic Prediction.]()**
 - **[Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation.]()**
+
+## 2020
+
+- **[Physical-Layer Arithmetic for Federated Learning in Uplink MU-MIMO Enabled Wireless Networks.]()**
+- **[Optimizing Federated Learning on Non-IID Data with Reinforcement Learning.]()**
+- **[Enabling Execution Assurance of Federated Learning at Untrusted Participants.]()**
