@@ -114,3 +114,43 @@
 - **[Towards Unbiased Training in Federated Open-world Semi-supervised Learning.]()**
 - **[LeadFL: Client Self-Defense against Model Poisoning in Federated Learning.]()**
 - **[Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning.]()**
+
+## 2022
+
+- **[Fast Composite Optimization and Statistical Recovery in Federated Learning.]()**
+- **[Personalization Improves Privacy-Accuracy Tradeoffs in Federated Learning.]()**
+- **[The Fundamental Price of Secure Aggregation in Differentially Private Federated Learning.]()**
+- **[The Poisson Binomial Mechanism for Unbiased Federated Learning with Secure Aggregation.]()**
+- **[DisPFL: Towards Communication-Efficient Personalized Federated Learning via Decentralized Sparse Training.]()**
+- **[FedNew: A Communication-Efficient and Privacy-Preserving Newton-Type Method for Federated Learning.]()**
+- **[DAdaQuant: Doubly-adaptive quantization for communication-efficient Federated Learning.]()**
+- **[Accelerated Federated Learning with Decoupled Adaptive Optimization.]()**
+- **[Federated Reinforcement Learning: Linear Speedup Under Markovian Sampling.]()**
+- **[Multi-Level Branched Regularization for Federated Learning.]()**
+- **[FedScale: Benchmarking Model and System Performance of Federated Learning at Scale.]()**
+- **[Federated Learning with Positive and Unlabeled Data.]()**
+- **[Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning.]()**
+- **[Orchestra: Unsupervised Federated Learning via Globally Consistent Clustering.]()**
+- **[Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring.]()**
+- **[Architecture Agnostic Federated Learning for Neural Networks.]()**
+- **[Personalized Federated Learning through Local Memorization.]()**
+- **[Proximal and Federated Random Reshuffling.]()**
+- **[Federated Learning with Partial Model Personalization.]()**
+- **[Generalized Federated Learning via Sharpness Aware Minimization.]()**
+- **[FedNL: Making Newton-Type Methods Applicable to Federated Learning.]()**
+- **[Federated Minimax Optimization: Improved Convergence Analyses and Algorithms.]()**
+- **[Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning.]()**
+- **[FedNest: Federated Bilevel, Minimax, and Compositional Optimization.]()**
+- **[EDEN: Communication-Efficient and Robust Distributed Mean Estimation for Federated Learning.]()**
+- **[Communication-Efficient Adaptive Federated Learning.]()**
+- **[ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training.]()**
+- **[Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification.]()**
+- **[Anarchic Federated Learning.]()**
+- **[QSFL: A Two-Level Uplink Communication Optimization Framework for Federated Learning.]()**
+- **[Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization.]()**
+- **[Neural Tangent Kernel Empowered Federated Learning.]()**
+- **[Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy.]()**
+- **[Personalized Federated Learning via Variational Bayesian Inference.]()**
+- **[Federated Learning with Label Distribution Skew via Logits Calibration.]()**
+- **[Neurotoxin: Durable Backdoors in Federated Learning.]()**
+- **[Resilient and Communication Efficient Learning for Heterogeneous Federated Systems.]()**
