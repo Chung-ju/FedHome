@@ -4,6 +4,9 @@
 
 - **[Passive Inference Attacks on Split Learning via Adversarial Regularization.](https://arxiv.org/pdf/2310.10483)**
 - **[CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling.](https://kaiyuanzhang.com/publications/NDSS25_Censor.pdf)**
+- **[RAIFLE: Reconstruction Attacks on Interaction-based Federated Learning with Adversarial Data Manipulation.](https://arxiv.org/pdf/2310.19163)**
+- **[SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning.](https://arxiv.org/pdf/2501.06650)**
+- **[URVFL: Undetectable Data Reconstruction Attack on Vertical Federated Learning.](https://arxiv.org/pdf/2404.19582)**
 
 ## 2024
 
