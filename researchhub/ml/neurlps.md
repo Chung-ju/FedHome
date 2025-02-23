@@ -1,2 +1,184 @@
 # NeurIPS
 
+## 2024
+
+- **[FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection.]()**
+- **[Federated Ensemble-Directed Offline Reinforcement Learning.]()**
+- **[Federated Learning under Periodic Client Participation and Heterogeneous Data: A New Communication-Efficient Algorithm and Analysis.]()**
+- **[Resource-Aware Federated Self-Supervised Learning with Global Class Representations.]()**
+- **[DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices.]()**
+- **[SCAFFLSA: Taming Heterogeneity in Federated Linear Stochastic Approximation and TD Learning.]()**
+- **[Federated Fine-tuning of Large Language Models under Heterogeneous Tasks and Client Resources.]()**
+- **[FedAvP: Augment Local Data via Shared Policy in Federated Learning.]()**
+- **[Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning.]()**
+- **[FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations.]()**
+- **[Communication-Efficient Federated Group Distributionally Robust Optimization.]()**
+- **[Ferrari: Federated Feature Unlearning via Optimizing Feature Sensitivity.]()**
+- **[FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion.]()**
+- **[Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method.]()**
+- **[FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference.]()**
+- **[Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views.]()**
+- **[FedGTST: Boosting Global Transferability of Federated Models via Statistics Tuning.]()**
+- **[Dual-Personalizing Adapter for Federated Foundation Models.]()**
+- **[The Sample-Communication Complexity Trade-off in Federated Q-Learning.]()**
+- **[pfl-research: simulation framework for accelerating research in Private Federated Learning.]()**
+- **[(FL)2: Overcoming Few Labels in Federated Semi-Supervised Learning.]()**
+- **[Federated Transformer: Multi-Party Vertical Federated Learning on Practical Fuzzily Linked Data.]()**
+- **[Private and Personalized Frequency Estimation in a Federated Setting.]()**
+- **[Does Egalitarian Fairness Lead to Instability? The Fairness Bounds in Stable Federated Learning Under Altruistic Behaviors.]()**
+- **[FedGMark: Certifiably Robust Watermarking for Federated Graph Learning.]()**
+- **[HYDRA-FL: Hybrid Knowledge Distillation for Robust and Accurate Federated Learning.]()**
+- **[pFedClub: Controllable Heterogeneous Model Aggregation for Personalized Federated Learning.]()**
+- **[Free-Rider and Conflict Aware Collaboration Formation for Cross-Silo Federated Learning.]()**
+- **[Federated Graph Learning for Cross-Domain Recommendation.]()**
+- **[Heterogeneity-Guided Client Sampling: Towards Fast and Efficient Non-IID Federated Learning.]()**
+- **[Federated Model Heterogeneous Matryoshka Representation Learning.]()**
+- **[Revisiting Ensembling in One-Shot Federated Learning.]()**
+- **[Thinking Forward: Memory-Efficient Federated Finetuning of Language Models.]()**
+- **[FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?]()**
+- **[Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning.]()**
+- **[Personalized Federated Learning via Feature Distribution Adaptation.]()**
+- **[Hierarchical Federated Learning with Multi-Timescale Gradient Correction.]()**
+- **[Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift.]()**
+- **[FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation.]()**
+- **[Probabilistic Federated Prompt-Tuning with Non-IID and Imbalanced Data.]()**
+- **[Federated Learning over Connected Modes.]()**
+- **[A-FedPD: Aligning Dual-Drift is All Federated Primal-Dual Learning Needs.]()**
+- **[DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting.]()**
+- **[SpaFL: Communication-Efficient Federated Learning With Sparse Models And Low Computational Overhead.]()**
+- **[Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains.]()**
+- **[Low Precision Local Training is Enough for Federated Learning.]()**
+- **[Personalized Federated Learning with Mixture of Models for Adaptive Prediction and Model Fine-Tuning.]()**
+- **[Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting.]()**
+- **[Stabilized Proximal-Point Methods for Federated Optimization.]()**
+- **[Why Go Full? Elevating Federated Learning Through Partial Network Updates.]()**
+- **[Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial Clients.]()**
+- **[A Bayesian Approach for Personalized Federated Learning in Heterogeneous Settings.]()**
+- **[One-shot Federated Learning via Synthetic Distiller-Distillate Communication.]()**
+- **[Convergence Analysis of Split Federated Learning on Heterogeneous Data.]()**
+- **[Efficient Federated Learning against Heterogeneous and Non-stationary Client Unavailability.]()**
+- **[RFLPA: A Robust Federated Learning Framework against Poisoning Attacks with Secure Aggregation.]()**
+- **[SPEAR: Exact Gradient Inversion of Batches in Federated Learning.]()**
+- **[Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data.]()**
+- **[FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models.]()**
+- **[Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning.]()**
+- **[Federated Black-Box Adaptation for Semantic Segmentation.]()**
+- **[FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel Extraction.]()**
+- **[FedGMKD: An Efficient Prototype Federated Learning Framework through Knowledge Distillation and Discrepancy-Aware Aggregation.]()**
+- **[Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning.]()**
+- **[Federated Natural Policy Gradient and Actor Critic Methods for Multi-task Reinforcement Learning.]()**
+- **[The Power of Extrapolation in Federated Learning.]()**
+- **[Federated Online Prediction from Experts with Differential Privacy: Separations and Regret Speed-ups.]()**
+- **[Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration.]()**
+- **[DataStealing: Steal Data from Diffusion Models in Federated Learning with Multiple Trojans.]()**
+- **[FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection.]()**
+- **[FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction.]()**
+- **[Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach.]()**
+- **[Confusion-Resistant Federated Learning via Diffusion-Based Data Harmonization on Non-IID Data.]()**
+- **[A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm.]()**
+
+## 2023
+
+- **[Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking.]()**
+- **[Communication-Efficient Federated Bilevel Optimization with Global and Local Lower Level Problems.]()**
+- **[Navigating Data Heterogeneity in Federated Learning: A Semi-Supervised Approach for Object Detection.]()**
+- **[Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization.]()**
+- **[Resolving the Tug-of-War: A Separation of Communication and Learning in Federated Learning.]()**
+- **[Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition.]()**
+- **[Federated Conditional Stochastic Optimization.]()**
+- **[SPACE: Single-round Participant Amalgamation for Contribution Evaluation in Federated Learning.]()**
+- **[Federated Learning with Client Subsampling, Data Heterogeneity, and Unbounded Smoothness: A New Algorithm and Lower Bounds.]()**
+- **[RECESS Vaccine for Federated Learning: Proactive Defense Against Model Poisoning Attacks.]()**
+- **[Spectral Co-Distillation for Personalized Federated Learning.]()**
+- **[Federated Compositional Deep AUC Maximization.]()**
+- **[Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training.]()**
+- **[Federated Learning via Meta-Variational Dropout.]()**
+- **[Solving a Class of Non-Convex Minimax Optimization in Federated Learning.]()**
+- **[A Unified Solution for Privacy and Communication Efficiency in Vertical Federated Learning.]()**
+- **[Eliminating Domain Bias for Federated Learning in Representation Space.]()**
+- **[FedL2P: Federated Learning to Personalize.]()**
+- **[One-Pass Distribution Sketch for Measuring Data Heterogeneity in Federated Learning.]()**
+- **[Incentives in Federated Learning: Equilibria, Dynamics, and Mechanisms for Welfare Maximization.]()**
+- **[DFRD: Data-Free Robustness Distillation for Heterogeneous Federated Learning.]()**
+- **[Flow: Per-instance Personalized Federated Learning.]()**
+- **[Fed-CO2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning.]()**
+- **[Every Parameter Matters: Ensuring the Convergence of Federated Learning with Dynamic Heterogeneous Models Reduction.]()**
+- **[Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning.]()**
+- **[PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning.]()**
+- **[Private Federated Frequency Estimation: Adapting to the Hardness of the Instance.]()**
+- **[Towards Personalized Federated Learning via Heterogeneous Model Reassembly.]()**
+- **[Federated Learning with Bilateral Curation for Partially Class-Disjoint Data.]()**
+- **[Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning.]()**
+- **[SimFBO: Towards Simple, Flexible and Communication-efficient Federated Bilevel Learning.]()**
+- **[Mobilizing Personalized Federated Learning in Infrastructure-Less and Heterogeneous Environments via Random Walk Stochastic ADMM.]()**
+- **[Federated Multi-Objective Learning.]()**
+- **[Structured Federated Learning through Clustered Additive Modeling.]()**
+- **[DELTA: Diverse Client Sampling for Fasting Federated Learning.]()**
+- **[FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning.]()**
+- **[Incentivized Communication for Federated Bandits.]()**
+- **[Fine-Grained Theoretical Analysis of Federated Zeroth-Order Optimization.]()**
+- **[Federated Learning with Manifold Regularization and Normalized Update Reaggregation.]()**
+- **[Convergence Analysis of Sequential Federated Learning on Heterogeneous Data.]()**
+- **[Federated Spectral Clustering via Secure Similarity Reconstruction.]()**
+- **[Improved Communication Efficiency in Federated Natural Policy Gradient via ADMM-based Gradient Updates.]()**
+- **[FedFed: Feature Distillation against Data Heterogeneity in Federated Learning.]()**
+- **[A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning.]()**
+- **[Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense.]()**
+- **[EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning.]()**
+- **[Federated Linear Bandits with Finite Adversarial Actions.]()**
+- **[IBA: Towards Irreversible Backdoor Attacks in Federated Learning.]()**
+- **[A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks.]()**
+- **[StableFDG: Style and Attention Based Learning for Federated Domain Generalization.]()**
+- **[Guiding The Last Layer in Federated Learning with Pre-Trained Models.]()**
+- **[Multiply Robust Federated Estimation of Targeted Average Treatment Effects.]()**
+- **[Dynamic Personalized Federated Learning with Adaptive Differential Privacy.]()**
+- **[FLuID: Mitigating Stragglers in Federated Learning using Invariant Dropout.]()**
+- **[FedNAR: Federated Optimization with Normalized Annealing Regularization.]()**
+- **[Fed-GraB: Federated Long-tailed Learning with Self-Adjusting Gradient Balancer.]()**
+- **[Adaptive Test-Time Personalization for Federated Learning.]()**
+- **[FedGCN: Convergence-Communication Tradeoffs in Federated Training of Graph Convolutional Networks.]()**
+- **[Understanding How Consistency Works in Federated Learning via Stage-wise Relaxed Initialization.]()**
+
+## 2022
+
+- **[Federated Submodel Optimization for Hot and Cold Data Features.]()**
+- **[On Sample Optimality in Personalized Collaborative and Federated Learning.]()**
+- **[VF-PS: How to Select Important Participants in Vertical Federated Learning, Efficiently and Securely?]()**
+- **[CalFAT: Calibrated Federated Adversarial Training with Label Skewness.]()**
+- **[Resource-Adaptive Federated Learning with All-In-One Neural Composition.]()**
+- **[SoteriaFL: A Unified Framework for Private Federated Learning with Communication Compression.]()**
+- **[A Simple and Provably Efficient Algorithm for Asynchronous Federated Contextual Linear Bandits.]()**
+- **[FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings.]()**
+- **[Fairness in Federated Learning via Core-Stability.]()**
+- **[On Privacy and Personalization in Cross-Silo Federated Learning.]()**
+- **[A Communication-efficient Algorithm with Linear Convergence for Federated Minimax Learning.]()**
+- **[SAGDA: Achieving $\mathcal{O}(\epsilon^{-2})$ Communication Complexity in Federated Min-Max Learning.]()**
+- **[FairVFL: A Fair Vertical Federated Learning Framework with Contrastive Adversarial Learning.]()**
+- **[Recovering Private Text in Federated Learning of Language Models.]()**
+- **[FedPop: A Bayesian Approach for Personalised Federated Learning.]()**
+- **[pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning.]()**
+- **[DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing.]()**
+- **[Byzantine-tolerant federated Gaussian process regression for streaming data.]()**
+- **[Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning.]()**
+- **[Taming Fat-Tailed ("Heavier-Tailed" with Potentially Infinite Variance) Noise in Federated Learning.]()**
+- **[Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning.]()**
+- **[SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training.]()**
+- **[A Unified Analysis of Federated Learning with Arbitrary Client Participation.]()**
+- **[Federated Learning from Pre-Trained Models: A Contrastive Learning Approach.]()**
+- **[Self-Aware Personalized Federated Learning.]()**
+- **[A Coupled Design of Exploiting Record Similarity for Practical Vertical Federated Learning.]()**
+- **[DENSE: Data-Free One-Shot Federated Learning.]()**
+- **[An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects.]()**
+- **[Coresets for Vertical Federated Learning: Regularized Linear Regression and $K$-Means Clustering.]()**
+- **[FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction.]()**
+- **[Global Convergence of Federated Learning for Mixed Regression.]()**
+- **[Personalized Federated Learning towards Communication Efficiency, Robustness and Fairness.]()**
+- **[TCT: Convexifying Federated Learning using Bootstrapped Neural Tangent Kernels.]()**
+- **[Personalized Online Federated Learning with Multiple Kernels.]()**
+- **[Learning to Attack Federated Learning: A Model-based Reinforcement Learning Attack Framework.]()**
+- **[Factorized-FL: Personalized Federated Learning with Parameter Factorization & Similarity Matching.]()**
+- **[SecureFedYJ: a safe feature Gaussianization protocol for Federated Learning.]()**
+- **[FLAIR: Federated Learning Annotated Image Repository.]()**
+- **[Communication Efficient Federated Learning for Generalized Linear Bandits.]()**
+- **[Preservation of the Global Knowledge by Not-True Distillation in Federated Learning.]()**
+- **[FedSR: A Simple and Effective Domain Generalization Method for Federated Learning.]()**
