@@ -49,3 +49,6 @@
   * [MobiCom](researchhub/mobile/mobicom.md)
   * [SenSys](researchhub/mobile/sensys.md)
   * [UbiComp](researchhub/mobile/ubicomp.md)
+* [AI](researchhub/ai/README.md)
+  * [AAAI](researchhub/ai/aaai.md)
+  * [IJCAI](researchhub/ai/ijcai.md)
