@@ -43,6 +43,7 @@
   * [ICML](researchhub/ml/icml.md)
   * [ICLR](researchhub/ml/iclr.md)
   * [AISTATS](researchhub/ml/aistats.md)
+  * [NeurlPS](researchhub/ml/neurlps.md)
 * [🫐 Mobile](researchhub/mobile/README.md)
   * [MobiSys](researchhub/mobile/mobisys.md)
   * [MobiCom](researchhub/mobile/mobicom.md)
